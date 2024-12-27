@@ -175,6 +175,7 @@ a:hover, a:focus, a:active {
 }
 
 .about-us-col {
+  margin-bottom:20px;
   height: 325px;
   padding: 25px;
   text-align: center;
@@ -193,7 +194,6 @@ a:hover, a:focus, a:active {
   text-transform: uppercase;
 }
 .about-us-col .col-details {
-  text-align: justify;
   margin-bottom: 25px;
   min-height: 80px;
 }
