@@ -291,7 +291,7 @@ a:hover, a:focus, a:active {
   font-weight: bold;
 }
 .cause .cause-details {
-  text-align: justify;
+  text-align: center;
   padding: 0 15px;
   font-size: 13px;
   margin-bottom: 15px;
