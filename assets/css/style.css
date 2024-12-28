@@ -371,6 +371,7 @@ a:hover, a:focus, a:active {
 .footer-bottom {
   background: #115c9b;
   padding: 3px;
+  color: white;	
 }
 
 .footer-form .form-group {
